@@ -6,7 +6,9 @@ interface CircularTextProps {
   spinDuration?: number;
   onHover?: "slowDown" | "speedUp" | "pause" | "goBonkers";
   className?: string;
+   radius?: number; 
 }
+
 
 const getRotationTransition = (
   duration: number,
