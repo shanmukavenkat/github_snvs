@@ -9,16 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/matter-js": "^0.19.8",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "framer-motion": "^11.18.2",
+    "lodash": "^4.17.21",
     "lucide-react": "^0.510.0",
+    "matter-js": "^0.20.0",
     "mini-svg-data-uri": "^1.4.4",
     "motion": "^12.11.4",
     "next": "15.3.2",
+    "poly-decomp": "^0.3.0",
     "postprocessing": "^6.37.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "svg-path-commander": "^2.1.10",
     "tailwind-merge": "^3.3.0",
     "three": "^0.167.1"
   },
